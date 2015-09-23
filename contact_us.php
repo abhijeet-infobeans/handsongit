@@ -56,7 +56,7 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Contact Us</h1>
+        <h1><i>Contact Us</i></h1>
         <p class="lead">Handsongit believes immensely in giving back to the community it belongs to. To this end, Handsongit is involved in society building activities that aim to make a small positive impact in the lives of our fellow citizens.<br> There are many more areas we would like to contribute in. If you have any ideas/suggestions, please feel free to contact us at abc@test.com</p>
         <p class="lead">603 Cluster C, EON, MIDC Kharadi
 Pune – 411014, Maharashtra, India <br> +91 1234567890</p>
