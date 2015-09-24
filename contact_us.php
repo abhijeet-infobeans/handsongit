@@ -45,11 +45,9 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li><a href="#about">About</a></li>
-
-            <li><a href="contact_us.php"><strong><i>Contact</i></strong></a></li>
-
+            <li class="active"><a href="contact_us.php"><i>Contact</i></a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -58,8 +56,10 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Bootstrap starter template</h1>
-        <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+        <h1>Contact Us</h1>
+        <p class="lead">Handsongit believes immensely in giving back to the community it belongs to. To this end, Handsongit is involved in society building activities that aim to make a small positive impact in the lives of our fellow citizens.<br> There are many more areas we would like to contribute in. If you have any ideas/suggestions, please feel free to contact us at abc@test.com</p>
+        <p class="lead">603 Cluster C, EON, MIDC Kharadi
+Pune – 411014, Maharashtra, India <br> +91 1234567890</p>
       </div>
 
     </div><!-- /.container -->
