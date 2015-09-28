@@ -46,8 +46,8 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li><a href="index.php">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li class="active"><a href="contact_us.php"><i>Contact</i></a></li>
+            <li class="active"><a href="about_us.php"><strong><i>About</i></strong></a></li>
+            <li><a href="contact_us.php"><i>Contact</i></a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -57,9 +57,7 @@
 
       <div class="starter-template">
         <h1>About Us</h1>
-        <p class="lead">Handsongit believes immensely in giving back to the community it belongs to. To this end, Handsongit is involved in society building activities that aim to make a small positive impact in the lives of our fellow citizens.<br> There are many more areas we would like to contribute in. If you have any ideas/suggestions, please feel free to contact us at abc@test.com</p>
-        <p class="lead">603 Cluster C, EON, MIDC Kharadi
-Pune – 411014, Maharashtra, India <br> +91 1234567890</p>
+        <p class="lead">Handsongit is one of the Internet's largest  and most established marketplaces for SEO friendly content, connecting web publishers to the best content writers online.</p>
       </div>
 
     </div><!-- /.container -->
