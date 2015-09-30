@@ -51,6 +51,8 @@
             <li><a href="about_us.php"><strong><i>About</i></strong></a></li>
 
             <li><a href="contact_us.php"><strong><i>Contact</i></strong></a></li>
+            
+            <li><a href="contact_us.php"><strong><i>Another Contact Us</i></strong></a></li>
 
           </ul>
         </div><!--/.nav-collapse -->
