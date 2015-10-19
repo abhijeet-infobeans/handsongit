@@ -60,9 +60,6 @@
         <p class="lead">Handsongit believes immensely in giving back to the community it belongs to. To this end, Handsongit is involved in society building activities that aim to make a small positive impact in the lives of our fellow citizens.<br> There are many more areas we would like to contribute in. If you have any ideas/suggestions, please feel free to contact us at abc@test.com</p>
         <p class="lead">603 Cluster C, EON, MIDC Kharadi
 Pune – 411014, Maharashtra, India <br> +91 1234567890</p>
-	<p>Note that all of the commands presented below merge into the current branch. The current branch will be updated to reflect the merge, but the target branch will be completely unaffected. Again, this means that git merge is often used in conjunction with <p>
-<p>Note that all of the commands presented below merge into the current branch. The current branch will be updated to reflect the merge, but the target branch will be completely unaffected. Again, this means that git merge is often used in conjunction with <p>
-<p>Note that all of the commands presented below merge into the current branch. The current branch will be updated to reflect the merge, but the target branch will be completely unaffected. Again, this means that git merge is often used in conjunction with <p>
       </div>
 
     </div><!-- /.container -->
