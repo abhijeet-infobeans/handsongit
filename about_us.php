@@ -49,6 +49,7 @@
             <li class="active"><a href="about_us.php"><strong><i>About</i></strong></a></li>
             <li><a href="contact_us.php"><i>Contact</i></a></li>
 	    <li><a href="#"><i>PR 2</i></a></li>
+	    <li><a href="#"><i>PR 3</i></a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
