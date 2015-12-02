@@ -46,8 +46,10 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li><a href="index.php">Home</a></li>
-            <li><a href="about_us.php"><strong><i>About</i></strong></a></li>
-            <li class="active"><a href="contact_us.php"><i>Contact</i></a></li>
+            <li class="active"><a href="about_us.php"><strong><i>About</i></strong></a></li>
+            <li><a href="contact_us.php"><i>Contact</i></a></li>
+	    <li><a href="#"><i>PR 2</i></a></li>
+	    <li><a href="#"><i>PR 3</i></a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -56,13 +58,11 @@
     <div class="container">
 
       <div class="starter-template">
-        <h1>Contact Us</h1>
-        <p class="lead">Handsongit believes immensely in giving back to the community it belongs to. To this end, Handsongit is involved in society building activities that aim to make a small positive impact in the lives of our fellow citizens.<br> There are many more areas we would like to contribute in. If you have any ideas/suggestions, please feel free to contact us at abc@test.com</p>
-        <p class="lead">603 Cluster C, EON, MIDC Kharadi
-Pune – 411014, Maharashtra, India <br> +91 1234567890</p>
-	<p>Note that all of the commands presented below merge into the current branch. The current branch will be updated to reflect the merge, but the target branch will be completely unaffected. Again, this means that git merge is often used in conjunction with <p>
-<p>Note that all of the commands presented below merge into the current branch. The current branch will be updated to reflect the merge, but the target branch will be completely unaffected. Again, this means that git merge is often used in conjunction with <p>
-<p>Note that all of the commands presented below merge into the current branch. The current branch will be updated to reflect the merge, but the target branch will be completely unaffected. Again, this means that git merge is often used in conjunction with <p>
+        <h1>About Us</h1>
+        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis dictum lectus, eget pretium lacus. Donec hendrerit, velit in fermentum pretium, neque erat fermentum lorem, mattis efficitur tortor lectus at nunc. Sed feugiat, diam lobortis ultrices elementum, leo neque imperdiet elit, nec tristique nunc lorem at purus. Aenean nulla augue, eleifend ut ornare quis, lacinia sed felis. Vivamus at accumsan est. Proin feugiat orci in ligula laoreet fermentum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur luctus commodo risus et molestie. Etiam commodo eros justo, in malesuada risus iaculis at.</p>
+
+	<p class="lead">Pellentesque euismod fermentum nisi sagittis cursus. Ut sed congue purus. Sed facilisis sodales sapien, nec euismod arcu finibus at. Fusce id dignissim nisi, quis porttitor nunc. Etiam at nulla id lectus tempor tempor. Aliquam libero dui, pharetra a bibendum ac, lobortis non erat. Nam at commodo erat, quis imperdiet tellus. Vivamus convallis vel augue et egestas. Cras nec ornare ipsum, nec porta diam. Curabitur porttitor lorem felis, eget imperdiet erat molestie placerat. Phasellus aliquet ante nec libero vehicula fermentum. Maecenas eget eros vitae ipsum aliquet vestibulum. Vestibulum at nibh vitae dolor hendrerit rutrum quis nec mi.</p>
+<p class="lead">Pellentesque euismod fermentum nisi sagittis cursus. Ut sed congue purus. Sed facilisis sodales sapien, nec euismod arcu finibus at. Fusce id dignissim nisi, quis porttitor nunc. Etiam at nulla id lectus tempor tempor. Aliquam libero dui, pharetra a bibendum ac, lobortis non erat. Nam at commodo erat, quis imperdiet tellus. Vivamus convallis vel augue et egestas. Cras nec ornare ipsum, nec porta diam. Curabitur porttitor lorem felis, eget imperdiet erat molestie placerat. Phasellus aliquet ante nec libero vehicula fermentum. Maecenas eget eros vitae ipsum aliquet vestibulum. Vestibulum at nibh vitae dolor hendrerit rutrum quis nec mi.</p>
       </div>
 
     </div><!-- /.container -->
